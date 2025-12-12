@@ -19,37 +19,25 @@ The system includes:
 ---
 
 ## Project Structure
+
+```
 face-recognition-opencv/
-
 │
-
 ├── haarcascade/
-
-│ └── haarcascade_frontalface_default.xml
-
+│   └── haarcascade_frontalface_default.xml
 │
-
 ├── dataset/
-
-│ └── (will be filled automatically when running face_dataset.py)
-
+│   └── (will be filled automatically when running face_dataset.py)
 │
-
 ├── trainer/
-
-│ └── trainer.yml (auto-generated after training)
-
+│   └── trainer.yml (auto-generated after training)
 │
-
 ├── face_dataset.py
-
 ├── face_training.py
-
 ├── face_recognition.py
-
 ├── .gitignore
-
 └── README.md
+```
 
 ---
 
