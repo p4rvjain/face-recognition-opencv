@@ -85,5 +85,5 @@ The program will:
 
 ## Authors
 
-Parv Jain
+Parv Jain,
 Aanya Gupta
