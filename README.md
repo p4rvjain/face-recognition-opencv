@@ -80,3 +80,11 @@ The program will:
 - Predict the user’s name  
 - Show the confidence percentage  
 - Display face bounding boxes in real time
+
+---
+
+## Authors
+
+Parv Jain
+
+Aanya Gupta
